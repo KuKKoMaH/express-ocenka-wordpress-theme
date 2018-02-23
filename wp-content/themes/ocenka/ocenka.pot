@@ -1,0 +1,155 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ocenka\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-23 10:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: template-front.php:11
+msgid "Header title"
+msgstr ""
+
+#: template-front.php:12
+msgid "Header subtitle"
+msgstr ""
+
+#: template-front.php:13
+msgid "Header text"
+msgstr ""
+
+#: template-front.php:16
+msgid "Order form title"
+msgstr ""
+
+#: template-front.php:22
+msgid "Order form address label"
+msgstr ""
+
+#: template-front.php:29
+msgid "Order form apartment label"
+msgstr ""
+
+#: template-front.php:38
+msgid "Order form phone label"
+msgstr ""
+
+#: template-front.php:43
+msgid "Order form action label"
+msgstr ""
+
+#: template-front.php:53
+msgid "How it works title"
+msgstr ""
+
+#: template-front.php:63
+msgid "How it works button"
+msgstr ""
+
+#: template-front.php:70
+msgid "Video title"
+msgstr ""
+
+#: template-front.php:71
+msgid "Video text"
+msgstr ""
+
+#: template-front.php:75
+msgid "Video iframe"
+msgstr ""
+
+#: template-front.php:83
+msgid "Advantages title"
+msgstr ""
+
+#: template-front.php:93
+msgid "Advantages action"
+msgstr ""
+
+#: template-order-step1.php:17
+msgid "Payment error title"
+msgstr ""
+
+#: template-order-step1.php:17
+msgid "Payment error text"
+msgstr ""
+
+#: template-order-step3.php:21
+msgid "Legal documents title"
+msgstr ""
+
+#: template-order-step3.php:38
+msgid "Technical documents title"
+msgstr ""
+
+#: footer.php:4
+msgid "Login title"
+msgstr ""
+
+#: footer.php:9
+msgid "Login phone label"
+msgstr ""
+
+#: footer.php:13
+msgid "Login action label"
+msgstr ""
+
+#: footer.php:20
+msgid "Confirm title"
+msgstr ""
+
+#: footer.php:21
+msgid "Confirm text not activated"
+msgstr ""
+
+#: footer.php:22
+msgid "Confirm text activated"
+msgstr ""
+
+#: footer.php:27
+msgid "Confirm password label"
+msgstr ""
+
+#: footer.php:31
+msgid "Confirm action label"
+msgstr ""
+
+#: footer.php:36
+msgid "Confirm reset not activated"
+msgstr ""
+
+#: footer.php:37
+msgid "Confirm reset activated"
+msgstr ""
+
+#: template-order-done.php:19
+msgid "Done title"
+msgstr ""
+
+#: template-order-done.php:21
+msgid "Done text"
+msgstr ""
+
+#: blocks/menu.php:15
+msgid "Profile"
+msgstr ""
+
+#: blocks/footer.php:11
+msgid "Copyright"
+msgstr ""
+
+#. Name of the theme
+msgid "ocenka"
+msgstr ""
+
+#. Author of the theme
+msgid "Аноним"
+msgstr ""
