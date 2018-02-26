@@ -74,7 +74,7 @@ for ($i = 0; $i < strlen($text); $i++) {
 $text = '' . $certificate->companyOktmo;
 $font_size = 22;
 $y = 348;
-$x = 1232;
+$x = 1163;
 for ($i = 0; $i < strlen($text); $i++) {
   $bbox = imagettfbbox($font_size, 0, $font, $text[$i]);
   imagettftext($image, $font_size, 0, $x + 31/2 - ($bbox[2] - $bbox[0])/2, $y, $black, $font, $text[$i]);
@@ -137,7 +137,7 @@ imagettftext($image, $font_size, 0, $left + ($right-$left)/2 - ($bbox[2] - $bbox
 
 // ========================================================
 // К уплате
-$text = floor($certificate->price / 100) . ' руб. ' . $certificate->price % 100 . ' коп.';
+$text = $certificate->price . ' руб. 00 коп.';
 $font_size = 22;
 $y = 771;
 $left = 552;

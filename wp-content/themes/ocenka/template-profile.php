@@ -63,7 +63,7 @@ get_header();
               <div class="profile-table__label">Документы</div>
               <div class="profile-table__value">{{documents}}</div>
             </div>
-            <div class="profile-table__cell profile-table__cancel">
+            <div class="profile-table__cell profile-table__buttons" data-report-link="<? the_field('report_page', 'options'); ?>">
               <div class="profile-table__value">{{cancel}}</div>
             </div>
           </div>
