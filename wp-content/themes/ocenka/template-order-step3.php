@@ -30,6 +30,9 @@ get_header();
             <div class="docs__aside" id="LEGAL_DOCUMENT">
               <div class="docs__upload">
                 <input class="docs__input" id="file" type="file">Прикрепить<br>документы
+                <div class="docs__progress">
+                  <div class="docs__progressbar"></div>
+                </div>
               </div>
             </div>
           </div>
@@ -47,6 +50,9 @@ get_header();
             <div class="docs__aside" id="TECHNICAL_DOCUMENT">
               <div class="docs__upload">
                 <input class="docs__input" type="file">Прикрепить<br>документы
+                <div class="docs__progress">
+                  <div class="docs__progressbar"></div>
+                </div>
               </div>
             </div>
           </div>

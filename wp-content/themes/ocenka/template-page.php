@@ -13,5 +13,6 @@ get_header();
       </div>
     </div>
   </div>
-<? include 'blocks/footer.php'; footer(true); ?>
+<? include 'blocks/footer.php';
+footer(); ?>
 <? get_footer(); ?>

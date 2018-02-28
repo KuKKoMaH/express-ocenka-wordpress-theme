@@ -40,9 +40,6 @@ get_header();
               <div class="profile-table__label">№</div>
               <div class="profile-table__value">{{index}}</div>
             </div>
-            <!--.profile-table__cell.profile-table__date-->
-            <!--  .profile-table__label Дата регистрации заказа-->
-            <!--  .profile-table__value {{date}}-->
             <div class="profile-table__cell profile-table__address">
               <div class="profile-table__label">Адрес объекта недвижимости</div>
               <div class="profile-table__value">{{address}}</div>
@@ -58,10 +55,6 @@ get_header();
             <div class="profile-table__cell profile-table__payment">
               <div class="profile-table__label">Оплата</div>
               <div class="profile-table__value">{{paid}}</div>
-            </div>
-            <div class="profile-table__cell profile-table__documents">
-              <div class="profile-table__label">Документы</div>
-              <div class="profile-table__value">{{documents}}</div>
             </div>
             <div class="profile-table__cell profile-table__buttons" data-report-link="<? the_field('report_page', 'options'); ?>">
               <div class="profile-table__value">{{cancel}}</div>
@@ -81,6 +74,10 @@ get_header();
                 <div class="profile-table__info-row">
                   <div class="profile-table__info-label">Комментарий:</div>
                   <div class="profile-table__info-value">{{comment}}</div>
+                </div>
+                <div class="profile-table__info-row">
+                  <div class="profile-table__info-label">Документы:</div>
+                  <div class="profile-table__info-value">{{documents}}</div>
                 </div>
               </div>
             </div>
